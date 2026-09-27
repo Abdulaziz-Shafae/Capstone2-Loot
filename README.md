@@ -2,9 +2,12 @@
 
 🍳 Loot | لوت
 Smart Pantry & Meal Finder
+
+</div>
+
 Turn what you already have into what you can cook.
 Loot is a Spring Boot backend application that helps users manage pantry ingredients, discover recipes they can cook, identify missing ingredients, track cooking history, and use AI to make smarter food decisions.
-</div>
+
 
 📌 About the Project
 People often have ingredients at home but still do not know what to cook. This can lead to unnecessary grocery purchases, forgotten pantry items, and food waste.
