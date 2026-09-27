@@ -1,6 +1,10 @@
 <div align="center">
 
 🍳 Loot | لوت
+
+</div>
+<div align="center">
+
 Smart Pantry & Meal Finder
 
 </div>
